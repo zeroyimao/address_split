@@ -19,4 +19,4 @@
 电话：19988890098</br>
 ----------------------
 
-地址识别还在研究中，笨笨的，如果用的更智能的，建议参考###### https://github.com/ldwonday/zh-address-parse ###Js实现版本，可直接添加#assets包中调用即可
+地址识别还#在完善中，现在有点笨笨的，但大多数地址能识别出来。如果想用的更智能的，建议参考###### https://github.com/ldwonday/zh-address-parse ###Js实现版本，可直接添加#assets包中调用即可
